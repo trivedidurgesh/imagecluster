@@ -9,7 +9,7 @@ https://www.learnopencv.com/best-project-award-computer-vision-for-faces/
 
 It is part of the final project for the course.
  
-     What it do.
+     What it does.
  
     By using dlib deeplearing it will learn the peroson face present in an image and cluster out all the images from a group of images where that person face is present.
     So actually it is seperating out images from group of images based of the person face it have.
